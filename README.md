@@ -60,7 +60,7 @@ Seed demo files (sidebar → “Seed demo files for env”) to auto-create tmp/o
 
 ---
 
-⚙️ Config (config.yaml)
+## ⚙️ Config (config.yaml)
 
 prod_locked: true
 allowed_actions: [write, append, delete_file, move, make_dir]
@@ -74,7 +74,7 @@ Edit and click Reload config (sidebar) to apply live.
 
 ---
 
-📈 Business Impact
+## 📈 Business Impact
 
 Reduce churn: visible safety restores trust → adoption of AI features rises.
 
@@ -86,7 +86,7 @@ Full analysis: BUSINESS_IMPACT.md
 
 ---
 
-📄 Docs
+## 📄 Docs
 
 PRD
 
