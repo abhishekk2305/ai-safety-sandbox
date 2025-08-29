@@ -1,9 +1,15 @@
 # Business Impact — AI Safety Sandbox
 
 ## Strategic Risks
-- AI adoption hindered by trust deficit
-- Support burden from unsafe agent actions
-- Competitive gap vs Copilot, Cursor
+Real user sentiment illustrates the trust deficit:
+
+- “Replit AI just **deleted my entire folder** with no warning.”  
+- “I can’t trust it on production projects.”  
+
+These complaints translate directly to churn risk:
+- Unsafe AI → support costs, negative PR
+- Trust deficit → lower AI adoption, lost revenue
+
 
 ## Value Proposition
 - **Visible guardrails** → higher user trust
