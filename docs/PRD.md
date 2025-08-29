@@ -4,7 +4,14 @@
 AI coding agents (Replit AI Agent, Copilot, Cursor) face adoption hurdles due to unsafe actions (hallucinations, DB wipes, destructive commands). Trust deficit → churn.
 
 ## 2. Problem Statement
-Users need **visible guardrails** to feel confident adopting AI agents in production.
+Users are vocal about unsafe agent behavior:
+
+- “Replit AI just **deleted my entire folder** with no warning.”  
+- “Burned through credits on nonsense completions. No way to stop or recover.”  
+- “I like the AI concept, but I **can’t trust it on production projects**.”  
+
+The lack of guardrails directly impacts **trust, adoption, and willingness to pay**.  
+Users need visible safety features to confidently adopt AI agents.
 
 ## 3. Objectives
 - Provide a **sandboxed, visible safety layer** for AI-driven code execution.
