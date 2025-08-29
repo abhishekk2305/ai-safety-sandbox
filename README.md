@@ -56,11 +56,11 @@ streamlit run app.py
 
 Open http://localhost:8501
 
-Seed demo files (sidebar → “Seed demo files for env”) to auto-create tmp/output.txt and old/legacy.sql.```
+Seed demo files (sidebar → “Seed demo files for env”) to auto-create tmp/output.txt and old/legacy.sql.
 
 ---
 
-## ⚙️ Config (config.yaml)
+## ⚙️ Config (`config.yaml`)
 
 prod_locked: true
 allowed_actions: [write, append, delete_file, move, make_dir]
