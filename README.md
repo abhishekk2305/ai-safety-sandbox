@@ -49,10 +49,10 @@ make_dir <path>
 
 ## 🛠️ Quick Start
 
-```bash
+bash
 python3 -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
-streamlit run app.py```
+streamlit run app.py
 
 Open http://localhost:8501
 
@@ -76,26 +76,19 @@ Edit and click Reload config (sidebar) to apply live.
 
 ## 📈 Business Impact
 
-Reduce churn: visible safety restores trust → adoption of AI features rises.
+- **Reduce churn**: visible safety restores trust → adoption of AI features rises.  
+- **Cut support costs**: prevents unsafe agent actions before escalation.  
+- **Differentiate**: *“The safe AI agent”* vs competitors with no visible guardrails.  
 
-Cut support costs: prevents unsafe agent actions before escalation.
-
-Differentiate: “The safe AI agent” vs competitors with no visible guardrails.
-
-Full analysis: BUSINESS_IMPACT.md
+👉 Full analysis: [BUSINESS_IMPACT.md](docs/BUSINESS_IMPACT.md)
 
 ---
 
 ## 📄 Docs
 
-PRD
-
-Business Impact
-
-Design Decisions
-
-Roadmap
-
-Contributing
-
-License
+- [PRD](docs/PRD.md) — Product Requirements Document  
+- [Business Impact](docs/BUSINESS_IMPACT.md) — Market & revenue analysis  
+- [Design Decisions](docs/DESIGN_DECISIONS.md) — Why DSL, why Streamlit, etc.  
+- [Roadmap](docs/ROADMAP.md) — Iteration plan  
+- [Contributing](docs/CONTRIBUTING.md) — Contribution guidelines  
+- [License](LICENSE.md) — MIT license 
