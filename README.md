@@ -13,9 +13,18 @@ It enforces:
 ---
 
 ## ✨ Why this exists
-Replit’s AI Agent (and similar tools) face adoption challenges due to **trust deficits**: hallucinations, unsafe commands, and destructive actions (like a DB wipe).  
+Replit’s AI Agent faces adoption challenges due to unsafe behavior.  
 Infra fixes are invisible — users need *visible, controllable safety*.  
+
+Real user complaints:  
+> “Replit AI just **deleted my entire folder** with no warning.”  
+>  
+> “Burned through credits on nonsense completions. No way to stop or recover.”  
+>  
+> “I like the AI concept, but I **can’t trust it on production projects**.”  
+
 This Sandbox makes trust tangible.
+
 
 ---
 
